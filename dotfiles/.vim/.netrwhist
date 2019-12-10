@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users'
+let g:netrw_dirhist_7='/Users/rkom'
+let g:netrw_dirhist_6='/Users/rkom/Pictures'
+let g:netrw_dirhist_5='/Users/rkom/.vim'
+let g:netrw_dirhist_4='/Users/rkom/.local/share/fish/generated_completions'
+let g:netrw_dirhist_3='/Users/rkom/Projects/jbbz/yager-code-py/.git'
+let g:netrw_dirhist_2='/Users/rkom/Projects/rbrk.at/debian-image-builder/.git'
+let g:netrw_dirhist_1='/Users/rkom/Projects/rbrk.at/pm-image-builder/.git'
