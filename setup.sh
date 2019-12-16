@@ -46,7 +46,7 @@ sudo pmset -b displaysleep 5 disksleep 10 sleep 15			#battery
 ##homebrew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew tap "homebrew/cask-drivers"
-brew install fish vim wget terraform nmap neofetch python smartmontools tldr blueutil tree gnu-se god
+brew install fish vim wget terraform nmap neofetch python smartmontools tldr blueutil tree gnu-se god ansible
 brew cask install iterm2 vscodium firefox iina steam transmission calibre spotify keka logitech-options whatsapp vagrant coconutbattery appcleaner mullvadvpn viscosity
 
 ##fish
